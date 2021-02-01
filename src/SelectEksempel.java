@@ -18,7 +18,7 @@ public class SelectEksempel {
      */
     private Connection connect() {
         // SQLite connection string
-        String url = "jdbc:sqlite:C:/Users/András Ács Pedersen/IdeaProjects/DB1/src/Opskrifter";
+        String url = "jdbc:sqlite:C:/Users/András Ács Pedersen/IdeaProjects/DB1/src/Opskrifter.db";
         Connection conn = null;
         try {
             conn = DriverManager.getConnection(url);
