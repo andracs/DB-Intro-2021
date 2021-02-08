@@ -7,6 +7,7 @@
 - **Opskrifter.db** et ynkeligt forsøg på en opskriftsdatabase.
 - **Factbook.db** en open source database om alle verdens lande.
 - **Chinook.db** databasen fra sqlitetutorial.net.
+- Se yderlige eksempler for f.eks. insert, update, delete og transactions på https://www.sqlitetutorial.net/sqlite-java/
 
 
 
