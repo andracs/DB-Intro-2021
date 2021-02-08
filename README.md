@@ -1,5 +1,3 @@
-# DB-Intro-2021
-
 # Simple eksempler på SQlite i Java
 *Kodeeksemplerne er delvist baseret på eksemplerne på https://www.sqlitetutorial.net/ .*
 
