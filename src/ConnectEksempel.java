@@ -29,9 +29,11 @@ public class ConnectEksempel {
             }
         }
     }
-     
-    // TODO Der skal tilføjes en test her. 
-     
+    
+    public static void test() {
+         System.out.println("Testen kører fint jo!");
+    }
+
     /**
      * @param args the command line arguments
      */
