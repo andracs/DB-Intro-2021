@@ -29,6 +29,9 @@ public class ConnectEksempel {
             }
         }
     }
+     
+    // TODO Der skal tilføjes en test her. 
+     
     /**
      * @param args the command line arguments
      */
