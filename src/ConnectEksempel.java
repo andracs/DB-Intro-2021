@@ -31,7 +31,9 @@ public class ConnectEksempel {
     }
     
     public static void test() {
-         System.out.println("Testen kører fint jo!");
+
+        System.out.println("Testen kører fint jo!");
+
     }
 
     /**
