@@ -30,9 +30,9 @@ public class ConnectEksempel {
         }
     }
     
-public static void test() {
-     System.out.println("Testen kører fint jo!");
-}
+    public static void test() {
+         System.out.println("Testen kører fint jo!");
+    }
 
     /**
      * @param args the command line arguments
